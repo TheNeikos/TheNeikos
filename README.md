@@ -9,11 +9,16 @@ I'm proud of the following projects:
 <dl>
   <dt><a href="https://github.com/TheNeikos/rustbreak">Rustbreak</a> • <img src="https://img.shields.io/github/stars/TheNeikos/rustbreak" /></dt> 
   <dd>
-    Rustbreak is a Daybreak inspired self-contained file database. It is meant to be fast and simple to use. You add it to your application and it should just work for you. The only thing you will have to take care of is saving.
+    <blockquote>
+      Rustbreak is a Daybreak inspired self-contained file database. It is meant to be fast and simple to use. 
+      You add it to your application and it should just work for you. The only thing you will have to take care of is saving.
+    </blockquote>
   </dd>
   <dt><a href="https://github.com/TheNeikos/viereck">Viereck</a> • <img src="https://img.shields.io/github/stars/TheNeikos/viereck" /></dt>
   <dd>
-    `viereck` is an X11 tool to display graphics as an overlay. It can be considered as an attempt to replace `dzen2`.
+    <blockquote>
+      `viereck` is an X11 tool to display graphics as an overlay. It can be considered as an attempt to replace `dzen2`.
+    </blockquote>
   </dd>
 </dl>
 
