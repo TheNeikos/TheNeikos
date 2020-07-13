@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**TheNeikos/TheNeikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Rust Programmer from Germany, currently working on a PhD in cryptography. 
 
-Here are some ideas to get you started:
+I'm proud of the following projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<dl>
+  <dt><a href="https://github.com/TheNeikos/rustbreak">Rustbreak</a> • <img src="https://img.shields.io/github/stars/TheNeikos/rustbreak" /></dt> 
+  <dd>
+    Rustbreak is a Daybreak inspired self-contained file database. It is meant to be fast and simple to use. You add it to your application and it should just work for you. The only thing you will have to take care of is saving.
+  </dd>
+  <dt><a href="https://github.com/TheNeikos/viereck">Viereck</a> • <img src="https://img.shields.io/github/stars/TheNeikos/viereck" /></dt>
+  <dd>
+    `viereck` is an X11 tool to display graphics as an overlay. It can be considered as an attempt to replace `dzen2`.
+  </dd>
+</dl>
+
+
+### Life Roadmap
+
+- ✨ Finish PhD
+- 🦀 Find remote Rust Job
+- 🐴 Get an Irish Cob Horse
+- 🏡 Build/Buy a House
