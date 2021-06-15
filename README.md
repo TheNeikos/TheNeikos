@@ -25,7 +25,7 @@ I'm proud of the following projects:
 
 ### Life Roadmap
 
-- [ ] ✨ Finish PhD
+- [ ] ~~✨ Finish PhD~~
 - [ ] 🦀 Find remote Rust Job
 - [x] 🐴 Get an Irish Cob Horse
 - [ ] 🏡 Build/Buy a House
