@@ -25,6 +25,6 @@ I'm proud of the following projects:
 
 ### Life Roadmap
 
-- [ ] 🦀 Find remote Rust Job
+- [x] 🦀 Find remote Rust Job
 - [x] 🐴 Get an Irish Cob Horse
 - [ ] 🏡 Build/Buy a House
