@@ -28,3 +28,8 @@ I'm proud of the following projects:
 - [x] 🦀 Find remote Rust Job
 - [x] 🐴 Get an Irish Cob Horse
 - [ ] 🏡 Build/Buy a House
+
+
+### Contacting me
+
+Feel free to send me emails at `neikos at neikos dot email`, but do not write to me for anything cryptocurrency/blockchain related. I will just report it as spam (which it is).
