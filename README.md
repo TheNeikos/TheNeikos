@@ -28,6 +28,8 @@ I'm proud of the following projects:
 - [x] 🦀 Find remote Rust Job
 - [x] 🐴 Get an Irish Cob Horse
 - [ ] 🏡 Build/Buy a House
+- [ ] 👓 Get a VR Room
+- [ ] 🏢 Make a cozy Home Office
 
 
 ### Contacting me
