@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Rust Programmer from Germany, currently working on a PhD in cryptography. 
+I'm a programmer from Germany, currently working in OSS using Rust 🦀. 
 
 I'm proud of the following projects:
 
