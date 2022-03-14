@@ -2,8 +2,10 @@
 
 I'm a programmer from Germany, currently working in OSS using Rust 🦀. 
 
-I'm proud of the following projects:
 
+<!--
+
+I'm proud of the following projects:
 
 
 <dl>
@@ -22,13 +24,23 @@ I'm proud of the following projects:
   </dd>
 </dl>
 
+-->
+
+### Interests
+
+A random lists of topics I'm interested in:
+
+- User Experience (whether end-user or developer)
+- Correctness (Does it do what it says on the box?)
+- Cryptography
+
 
 ### Life Roadmap
 
 - [x] 🦀 Find remote Rust Job
 - [x] 🐴 Get an Irish Cob Horse
-- [ ] 🏡 Build/Buy a House
-- [ ] 👓 Get a VR Room
+- [ ] 🏡 Buy a House
+- [ ] 👓 Design/Organize a VR Room
 - [ ] 🏢 Make a cozy Home Office
 
 
