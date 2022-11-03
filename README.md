@@ -39,7 +39,7 @@ A random lists of topics I'm interested in:
 
 - [x] 🦀 Find remote Rust Job
 - [x] 🐴 Get an Irish Cob Horse
-- [ ] 🏡 Buy a House
+- [x] 🏡 Buy a House
 - [ ] 👓 Design/Organize a VR Room
 - [ ] 🏢 Make a cozy Home Office
 
@@ -47,3 +47,5 @@ A random lists of topics I'm interested in:
 ### Contacting me
 
 Feel free to send me emails at `neikos at neikos dot email`, but do not write to me for anything cryptocurrency/blockchain related. I will just report it as spam (which it is).
+
+You can also contact me on <a rel="me" href="https://meow.social/@Hemera">Mastodon</a>
