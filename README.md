@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a programmer from Germany, currently working in OSS using Rust 🦀. 
+I'm a programmer from Europe, currently working in OSS using Rust 🦀. 
 
 
 <!--
