@@ -42,7 +42,7 @@ A random lists of topics I'm interested in:
 - [x] 🏡 Buy a House
 - [ ] 👓 Design/Organize a VR Room
 - [ ] 🏢 Make a cozy Home Office
-- [ ] Release a serviec that others use
+- [ ] Release a service that others use
 - [ ] Release a game
 
 
